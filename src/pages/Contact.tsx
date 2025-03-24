@@ -14,7 +14,6 @@ const Contact = () => {
       pageTransitionIn(containerRef.current);
     }
   }, []);
-  
   return (
     <div ref={containerRef} className="page-container pt-32 pb-20 min-h-screen">
       <div className="container px-4 md:px-6">
@@ -22,9 +21,9 @@ const Contact = () => {
           <span className="px-3 py-1 rounded-full text-xs font-medium bg-accent/20 text-accent inline-block mb-4">
             Get In Touch
           </span>
-          <h1 className="section-heading">Contact Me</h1>
+          <h1 className="section-heading">Lets Build Together</h1>
           <p className="text-muted-foreground">
-            Have a project in mind or just want to chat? I'd love to hear from you.
+            Have a project in mind or Need Some Coding Suit or Spells? I'd love to hear from you.
           </p>
         </div>
         
@@ -52,7 +51,7 @@ const Contact = () => {
                   <div>
                     <h4 className="font-medium mb-1">Email</h4>
                     <a href="mailto:hello@example.com" className="text-muted-foreground hover:text-accent transition-colors">
-                      hello@example.com
+                      prathmeshucit@gmail.com
                     </a>
                   </div>
                 </div>
@@ -64,7 +63,7 @@ const Contact = () => {
                   <div>
                     <h4 className="font-medium mb-1">Location</h4>
                     <p className="text-muted-foreground">
-                      Metropolis, Universe Earth-199999
+                     hanumanta Nagar,jail Road, Nashik road 422101
                     </p>
                   </div>
                 </div>
@@ -76,7 +75,7 @@ const Contact = () => {
                   <div>
                     <h4 className="font-medium mb-1">Phone</h4>
                     <a href="tel:+1234567890" className="text-muted-foreground hover:text-accent transition-colors">
-                      +1 (234) 567-890
+                      +91 96999 25064
                     </a>
                   </div>
                 </div>

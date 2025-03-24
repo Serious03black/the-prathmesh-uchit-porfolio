@@ -11,7 +11,7 @@ const Footer = () => {
           <div className="space-y-4">
             <h2 className="text-2xl font-bold text-accent font-[Cinzel]">Multiverse</h2>
             <p className="text-muted-foreground max-w-md">
-              A portfolio bridging multiple universes through code, creativity, and cutting-edge web technologies.
+              A portfolio bridging multiple universes through fastest Code,magical creativity, and iron Man's technologies.
             </p>
           </div>
 

@@ -45,7 +45,7 @@ const Navbar = () => {
             to="/" 
             className="text-2xl font-bold font-[Cinzel] text-accent"
           >
-            Multiverse
+            My MUlTivErCe
           </NavLink>
 
           {/* Desktop Navigation */}
