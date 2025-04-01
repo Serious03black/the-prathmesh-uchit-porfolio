@@ -12,6 +12,7 @@ import Home from "./pages/Home";
 import Projects from "./pages/Projects";
 import Contact from "./pages/Contact";
 import NotFound from "./pages/NotFound";
+import { Analytics } from "@vercel/analytics/react"
 
 // Route transition wrapper
 const AnimatedRoutes = () => {
@@ -34,6 +35,7 @@ const AnimatedRoutes = () => {
         </Routes>
       </main>
       <Footer />
+      <Analytics/>
     </div>
   );
 };
