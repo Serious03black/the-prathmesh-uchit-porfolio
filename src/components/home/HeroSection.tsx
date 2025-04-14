@@ -111,7 +111,7 @@ const HeroSection = () => {
           }}
         >
          I am ,
-         Who is creater Of this Multiverce
+        The creater Of this Multiverce
         </motion.p>
         <motion.p
           variants={textVariants}
